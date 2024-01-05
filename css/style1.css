@@ -28,7 +28,7 @@
 
 /* Banner */
 .banner {
-    background: url(img/Banners.avif) no-repeat center;
+    background: url(../img/Banners.avif) no-repeat center;
     background-size: cover;
     padding-top: 20%;
     padding-bottom: 20%;
